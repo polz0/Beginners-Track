@@ -66,10 +66,12 @@
 - Use the terminal in VS Code to run the code
 
 
-_INSERT LEAD NAME HERE_
+POLINA
 
 **Team Members**
-_INSERT NAME HERE_
+ANDREW
+POLINA
+SHALINIDHAR
 
 
 
